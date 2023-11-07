@@ -1,0 +1,26 @@
+{
+  "name": "Myrtie Ingram",
+  "age": 47,
+  "address": {
+    "street": "Koloz Heights",
+    "city": "Nabtilo",
+    "state": "DE",
+    "zip": "04506"
+  },
+  "contact": {
+    "phone": "(428) 340-2817",
+    "servicePhone": "800239352"
+  },
+  "birthday": "1960-01-14T07:20:55.750Z",
+  "ip": "172.130.177.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Waami guaviwam vufumek pu com rewcag kirmow ba wuajepa su vowno buh danugif seawa id. Odduvu zu id nuswol fo hedpup weh jelowiv ew mavorod elisofa kepuhgeg lezesraw viri. Rilmouk jaz do govhego cilsuuvo begi iv ru po wepkor zuvakme hade dusigo waco wan.",
+    "bio": "Ho maj bezrumoh cu vajof acho ipa mur jutjiew vuj suhsin ov cozat fesrehib usijo lirudeh narujewo. Wikzem asmu rac vob cit aceloh vasjawa geghig disutlu hegih ijnit nig ruso li moc. Gikij ugasaza kahges imbakko diriki haga wav salub deg vo toknapwu nuseb ro sa puzid pindab jujefcan tegubag."
+  },
+  "apiKey": "eaa52519cf6e2cb157dac76fdccf422b836ef25494c41a93556beb895b99cf6c",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
