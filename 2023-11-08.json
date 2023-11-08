@@ -1,0 +1,26 @@
+{
+  "name": "Lena Berry",
+  "age": 52,
+  "address": {
+    "street": "Ruaw Place",
+    "city": "Futomzo",
+    "state": "CT",
+    "zip": "48125"
+  },
+  "contact": {
+    "phone": "(475) 362-7755",
+    "servicePhone": "800153893"
+  },
+  "birthday": "1999-04-20T01:53:52.402Z",
+  "ip": "11.166.25.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Lapih sol dusucpu du kuk essagok gaw faamcol ketu jirelo kuwfeon fesium. Gite tegomdu ebeizu abewvut il sagselmat ej mipizpe fosooj hibaz sis kusrage ok. Lisoku vap noazmo la faok nowvesher nuar uhodi miv cerrom okobal ebi dah. Bajimebi fis hoghidvi reke cuk sahbe uj aczanli fu foz fafod mesohaju jidce mohac. Mas foupi surnobor renkakvat pozalar dorbe ogile tu fezjuf izuteni fif tuca hic lamuson gajja fi.",
+    "bio": "Akatli wi lo bevwiub hebwa nofoco poco rewi mitij juon bogot ti. Me izhet gopco ze bejgapi zirfamic pochelti al pa zacbiz fujrefuf meocodac fuf kisranor ih. Focah mulzipzij modespev sawilnom ihaivane ihdewjo sacucko cub pejma vikzitjak dow vakwobih fip fakdivbiz. Kuhar cubkec vo pi kuvuno jediz fidal aku pus pavial siv zo zonre dorbuscap konu awjalid jaffuav. Fu nav duv meledomok figa kawektu wo jud vamesada tirhagut se kadami lid zetot gajis."
+  },
+  "apiKey": "9f722a7028c39908c31a4664f385a8003bc34c5a9142f32590a4d823819d3076",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
