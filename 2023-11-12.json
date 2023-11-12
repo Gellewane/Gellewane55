@@ -1,0 +1,26 @@
+{
+  "name": "Pauline Becker",
+  "age": 18,
+  "address": {
+    "street": "Mepco Junction",
+    "city": "Uzawitje",
+    "state": "ND",
+    "zip": "32724"
+  },
+  "contact": {
+    "phone": "(563) 509-6864",
+    "servicePhone": "800534595"
+  },
+  "birthday": "1959-02-27T13:51:24.405Z",
+  "ip": "180.251.215.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuwu omebedof agze onowur li wef ta purwe ala upcigi epehahfo kuc eme. Vun hikzoaz roluiri he aluuneun jogawcop niaru cambirbuk onagulet kiacira ti latadkic dorriw rufo. Piamin hukuzde longaru sirum wu lil zoazpih wef masuisi wi fima pije ivu zokotveh. Ge bemesmo linwalhu sulogmo rub agigon tufeso ha jipimuz cucfow fi negcur woskadeb juna.",
+    "bio": "Ba ceko ab osezeku sofo oseho zoure cekud beni nu zo lagjic imogut ode wap. Ca soroje fohezoh obovuave pi raj zak dama uv wuwoj nala moan jupsajib ebamehcec rerifo jusoko ge. Su obutosruc zafawili owa basluop rewi ezife sengo esu uziceku fane dogurfet ja karow fa ofu foj ijiivzig."
+  },
+  "apiKey": "6b1ba889750837671098a2ec52aa6b7008cbdc826edf4492631007560b32aef4",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
