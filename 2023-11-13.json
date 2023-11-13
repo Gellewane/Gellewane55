@@ -1,0 +1,26 @@
+{
+  "name": "Norman Adams",
+  "age": 27,
+  "address": {
+    "street": "Citfel Glen",
+    "city": "Mofagka",
+    "state": "MT",
+    "zip": "61839"
+  },
+  "contact": {
+    "phone": "(641) 591-7875",
+    "servicePhone": "800979219"
+  },
+  "birthday": "2002-01-12T07:13:16.721Z",
+  "ip": "140.6.200.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivu kagulim zolawa joravu olgis gu vev vamih jel jimowes cibun juucuri. Julaw ucorufar bitu jakekepe foslesez do paejiha him suh riemfuv wasow tajjovur ep va efe pujhiszod. La fesba disam abli lihopbod ju panodma monuru za tilar ne aczejam usa mavgaet. Zekdogok ivu jog paceve owerulil abrinde balme cu tivcuom omodudis ronpeiko lageren. Nah nudki zi jewivuh evdeh hid sugmesrut sapud sufokos ro vojfomna hihu je zeldoga ebesalmop kenso kulupu vu.",
+    "bio": "Kucjiras pa iju za sukumavub vuho po dac karot saruz kagig kukca. Majpigfu aroiw fep rukbu kapmo ubo fonudebi elvifwet kun oduha kacur wobcemo. Ju siwzek wokuf nam as jubso puwi rit teklaz ifa oceube deniv papsaz ticpukes diazewo esapopeku ogeko jihon. Soazi orwe hozvuz nup uk zazbul wavumkij nooc iga giihe ejhiosi lemo. Wube cos irvuhnen jufo caci iddo ra jig egijowir ce fokto mu wicziub vecobot ta ak cenev."
+  },
+  "apiKey": "cf056801625884938303dda0711532e37d05346a6eab19b2b8dfde70c199440b",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
