@@ -1,0 +1,26 @@
+{
+  "name": "Joe Ford",
+  "age": 60,
+  "address": {
+    "street": "Pecid Pass",
+    "city": "Wecaope",
+    "state": "OK",
+    "zip": "44359"
+  },
+  "contact": {
+    "phone": "(863) 665-1028",
+    "servicePhone": "800424989"
+  },
+  "birthday": "1995-06-04T03:43:43.773Z",
+  "ip": "4.87.203.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Vurnu cudihef ah ziefgok bu lonwuvsa ji tut livwohig iseogo hofhuvsoc di tejuga. Wufbaef wesfa ijkuso kof anvuc dipaj rebka leedu carkinha ja motona te cubjiuk. Di maracja eraon hijod ra alzahoh ce tukmi sopig duange tabjepe lipfefsu fecojseb bakoreb hadme. Vusi julko ci lezeh jigu vouroti gihim jijigu venaizo jinocbe eh onhem va ocoliv tattef. Luna hamep davmek fakej ro pilwic pi zoighu cu sorfismu iwhe res ufazzo.",
+    "bio": "Uf zicmor wowsojriv wotok roemseb jajo tupvasbev vi si fuihji botmito lur va hehlehu. Liamo itivu gofe ju zewluwit uvgiglub rip aguwepker er guop jejawoh heoli pihbu idufik iw fo hemitdor. Porfolli mulwemnor doohivub is pohsevwa tar wija idjoj cakija bawa na uzohop fa zujo. Gomsacka uptegul sokzalriw wujkokuz getjo weovjin cuhed ub us logzes leg us ohikowila. Ite or eli mo kizol esamead counepo muil etdo ube de unebimer omcitol oghufjon pumtipe fuksa."
+  },
+  "apiKey": "37a46d271a379e73126908a68a85cab1f0c4a6316eb5597215a50341fa4c6e01",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
