@@ -1,0 +1,26 @@
+{
+  "name": "Allen Pittman",
+  "age": 65,
+  "address": {
+    "street": "Ucook Manor",
+    "city": "Adiocno",
+    "state": "WV",
+    "zip": "21591"
+  },
+  "contact": {
+    "phone": "(774) 437-1865",
+    "servicePhone": "800895358"
+  },
+  "birthday": "1980-12-15T20:28:26.873Z",
+  "ip": "147.43.37.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Jamosli be awki dezovi mahha poblih pi jazozuz rotfah cewzawbo zunoem nidpahlij nof oza ur igener ve tej. Ziklec ividiaj fabhig efaboge erezara nedto vab abo wurdajif kiwi bouhba paz rehwo wobtu haseba nopca zecoc ipi. Lolola jofo jit negape nobfotuc horato eko duheti ipa le durwu kensaju kiace hiru fiz povjekuj fadihu on.",
+    "bio": "Igeuha ju veemoegu tu bobpis kaga fodu ne hawegvu bubuzgiv abogit unraslif terah ja azezacme vol. Sah toduv palhi timso pa gel dotgak zuho ew sifdo acfib paadevu woluprin fe. Kewus upabewa jikiza zogih agkop uwhika disduzva ru bazfajim romub kef kazgak duvnij be dozah takhulnaw."
+  },
+  "apiKey": "b4f90beb3696cec168e3f50d4eef49ff57a40e44a51c938f1d15183986d62b62",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
