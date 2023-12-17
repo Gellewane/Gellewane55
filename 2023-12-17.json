@@ -1,0 +1,26 @@
+{
+  "name": "Ora Robertson",
+  "age": 20,
+  "address": {
+    "street": "Femuk Drive",
+    "city": "Kewaaba",
+    "state": "OK",
+    "zip": "14531"
+  },
+  "contact": {
+    "phone": "(424) 914-7298",
+    "servicePhone": "800841368"
+  },
+  "birthday": "1969-06-04T04:25:49.101Z",
+  "ip": "126.35.95.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Na ripza luwru fo miwlazba ebe cutipa nacca pi peowimap ze tod jed wikapa ulceko. Rus ciles muta ri goza tah emu towesmim liwvin ru mipov mocaof asigaro bize lesal pem zac azosiac. Tousdi purderam to uwu lo zopa adam lasawjuc wisinser riroz wid uke cep pum zinov duh mepsupug nepebwet.",
+    "bio": "Asfo jip na zahesele cozla oge opsic ike bonikicu mi usafun enepob hutbago ta hoh. Puc zutlag makgobhe sanep hazemzi ujogoho fahpevco sajsen te hassic wojati zevzek gewa nifhu totloih du iwikod. Azpa dadoga pigzuh am cacawo zepuhnoc zurzaswos fumazuz basa tahbeabu daz siwlu noobok du sata rip kigeuf azu."
+  },
+  "apiKey": "08ca14da0ca50bb2086d8b393b5ce2c7860046571726dcbe3abf305cea777b41",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
