@@ -1,0 +1,26 @@
+{
+  "name": "Edna Ballard",
+  "age": 20,
+  "address": {
+    "street": "Jozud Street",
+    "city": "Hudirin",
+    "state": "CT",
+    "zip": "27644"
+  },
+  "contact": {
+    "phone": "(452) 663-8133",
+    "servicePhone": "800125816"
+  },
+  "birthday": "1962-11-01T21:27:46.540Z",
+  "ip": "11.51.174.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Pawogo zura maj pimib soidotah idiwason hiw lic fe nope rof solja pik gacedod kibadhuz. Ob umsew jireras ozi arusik uvsu me umuvofo ijuvi bawuwwa lilu suhpovit povap to ronsuv okogo. Dijkugdem we jikujnov ocaog rivkoag eba um ji emeco kazjes if uwula cihmab ucpufe gusufu. Nule pah fuhpic dul ca bofjit tifedwe tifevmeg gekkehat ufuad keemu suvteg moipe wavefo lediwkef legkutud alake rugunrar. Ku sefjok monef pif ov edivu goci sagohise olrimer wabe vo zavikcob cihrun.",
+    "bio": "Fu lo el ipbaca me ci tepzi li bu setolu zod za iko di zat. Saj dikawa ron se numnic rekdeni iweeji cucazgor bu fidni buuj ragah vifzop. Homaba livap up ijavi waabime tutirzo iwo eviga fojo viguremed rizulvu cojojpe lodkoci."
+  },
+  "apiKey": "b742bae0e016d3251edb78127fbdb9b519dae32c757c1e8d56976f8c5b9d508e",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
