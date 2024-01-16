@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Sanders",
+  "age": 19,
+  "address": {
+    "street": "Likon Path",
+    "city": "Direnve",
+    "state": "NE",
+    "zip": "99687"
+  },
+  "contact": {
+    "phone": "(906) 476-6576",
+    "servicePhone": "800112547"
+  },
+  "birthday": "2001-11-30T13:37:06.393Z",
+  "ip": "198.26.121.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Gop sut wejjak jeg ji tuj we wo gavwumon obesid zeom jokze ocados. Wu ovmucre ruh ecomu vafsusno idopaceh juohu tehlu uma do hujkahla asvogwa levemi olco bofse potol. Reh isogawhiz demfi suclolip ici hodvarwiv jakihzo wohewra dewsa tu apugilmes wuvtezcen da zobu koroace zo. Padwu jo poji hoti ge egas ahi reri himop ki mi itici tuw.",
+    "bio": "Dozulmer sopca kifisuvug lel idejifwir taluke pa emeteh fo uzgi duuwi ihuvo zenwa tewvo mahwicsal to. Ato toju pekbavu fuzrul nupido hup ca lovupoh wa ro culfatazo no ev. Owhukit ok zu torpok halre bujnacni ne enoh popobju guv ijzo mimhoz mo zomihme nivin put miwhiere utmuc. Utisa rozzaosa te lokgi makah rem henuwu sewev iki ti eca kej sivcal kalciw bev gepehdu savsohe kop. Fu obcezek ja fogefa ruhbav isci gik towepzib zaf ben altawam wacpi nuzuz samas nake pok. Vaifzeg ibe pi zara pitolug dam uti bizip coakho kuedejup paloki rem selduz gohal ef."
+  },
+  "apiKey": "62851edb952c8dd695dc88624232616a4e1c39e6444c103a679c3ef0ceee4eee",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
