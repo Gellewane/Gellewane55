@@ -1,0 +1,26 @@
+{
+  "name": "Lida Mendoza",
+  "age": 37,
+  "address": {
+    "street": "Mieg Grove",
+    "city": "Pimojfi",
+    "state": "WA",
+    "zip": "38873"
+  },
+  "contact": {
+    "phone": "(813) 450-2691",
+    "servicePhone": "800477369"
+  },
+  "birthday": "1999-11-23T12:04:28.369Z",
+  "ip": "69.153.60.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibri sar ded dukcitse domob se deksuvmek adudof api oflatfer kut baecucuk so ugowowe hokkujva zajcas. Tawabica hegilor kejpam nutip azkoddan sibamew eju ebusokal comu rilholo ronuksaj ke sa. Zilgempar ibjal saaluni guntafuji fa ujnes teheik lopah upe efuugako ose lapwu pebterawo hiji so gi ciime pe. Ojeto eginidjo tuvseno vat tun vevo rirop umimot samof kak izuik rumdaab aksile fe luj naz gosvasru.",
+    "bio": "Ke eg ajna fe tik zuusu gehwam kof og wa sulluf ledgi nout. Sed ke ow mos desenaf zibmo bin vawo duber wataji li ob wajadju vicro. Bih dobovo honotiaj tita guckafoj dalgusepu wo wufcaj zofo ruvuspuh wa hakkiw."
+  },
+  "apiKey": "c05ef7c47b6374556d61f9afc1038d821da2fe9530e8f457693f478547bba9b8",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
