@@ -1,0 +1,26 @@
+{
+  "name": "Carl Mann",
+  "age": 26,
+  "address": {
+    "street": "Uzjos Place",
+    "city": "Bispoaj",
+    "state": "MO",
+    "zip": "98150"
+  },
+  "contact": {
+    "phone": "(761) 582-1853",
+    "servicePhone": "800989254"
+  },
+  "birthday": "2001-06-05T23:39:34.761Z",
+  "ip": "51.114.61.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuhe roic fub jasac belupul tusin topopi coutono wugbejar jucojeb mogun cibcekwa. Anenazjin gos gutasbac div vufaulo heuce rupimcug joznu po pi eprebafi wo muhpapdu sici. Ricsupgah bufgi belaoz ol zijtir oju riijo akabeeca heroaz tojdi ehomu uw volo gufzamcij bilidwu ceg jen. Jomji itoureama kapefe ufgesan torlibu bog mozbohkoz tuvavtav enob tolewuw gicaljov jav segpiru josod pike fapzirziv gibda. Fevnas cilov zokuugi jik fa emliwom aleun tuwsok gettotiri muik jigok ma caghonuce kejditu cuitige ihjere. Odlin ikiz pafac efuska pav denvu keghava cu duholiz nuz ritfesepe nulsegus efahidtoz vopac si mekuwa.",
+    "bio": "Dudbuvolu koafuuza pinoew diwuhi zi ivizuek ume goh du rutoise pa je avlujfus ur zehocho eda vipin. Vaco gukilidi azozo levus sazed hu galogul paz mon ocki ezmolpim bekil bo viwopo gic gop ohgih keraej. Rovuro mep komu awa wer li sa jazlidki civrese zaenwe bubiwe zu wu. Kul turowe acu ipubig uzguwep rudaji uflef imagawef jeohlud sipaji voum najek go kubuv ajoikuho icuhursa aze nacso. Sab oppibad urhel uvorepsi hit de baranwi er wez tusodhir nut obaofiwi hekupacap. Jefuta vofvotowi no avezekpi kizogi kim fe noec jinsamhep dop umelivi ukuvoh."
+  },
+  "apiKey": "fff4d53824f8b61ebf363315cccf2bd4c9cd6501036fff0e7433d4204e4c4ed3",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
