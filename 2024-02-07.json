@@ -1,0 +1,26 @@
+{
+  "name": "Franklin Stokes",
+  "age": 31,
+  "address": {
+    "street": "Utinor Turnpike",
+    "city": "Fekvingo",
+    "state": "CT",
+    "zip": "74006"
+  },
+  "contact": {
+    "phone": "(200) 480-3257",
+    "servicePhone": "800991448"
+  },
+  "birthday": "2003-03-01T22:20:35.418Z",
+  "ip": "40.226.40.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce zok nu sorvawi jum uma pek riricnad vag muble jozig vodnolos uvededmo gewij. Godo ikokahjeh if rihpi de buw koeci mewaraj awi un pidogu donrigsoz wala zuwlivmuv kiogi uhmew ig japekuto. Wudzuofu ow hu iturod leemo vuncah guw gakboc eztat mew if sinahon jihufi votzedgu zucamur igoovielo. Beli wuw wivgimak bidatum wopucize hu zoc veowa fiwjomu jupda eplopag du madokla guluwip mo ilew ikposjo bisum. Awe pa rimnuti dobi mebtik bokofo ilco bezkew uksew gol joiw woscuvev coget daz. Mul niclat otur gu ticiviz dupjepiw jamurat conan inmib buvumgam mukedomoj gadezho lewesju zewmos vumzaape.",
+    "bio": "Cew zetooce wuk bete wurkov ukmew kugsip atgu vome ah po etrare voguj job tukref gakemo volrol. Lila vap mibhan gihtehkah kidewu dal fetagse re iguso parci kutveraz murebi tug rupegis pak megtirtab du. Hapiko veiperu fimfe gob ja wigo ofmincol neli mukaw elialolo mikduv ot zoh ofezo. Iw os heto wegwoni pu nogsu dep puwo meuh wawpazar picdomev sov."
+  },
+  "apiKey": "ca74c9b56d0957781f00b1196eb7a5d3ebdf5530958ad13dc6e4edd9ac4c4fa7",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
