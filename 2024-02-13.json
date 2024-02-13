@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Benson",
+  "age": 27,
+  "address": {
+    "street": "Mamlun Center",
+    "city": "Mumpagoc",
+    "state": "OK",
+    "zip": "77785"
+  },
+  "contact": {
+    "phone": "(788) 372-9107",
+    "servicePhone": "800465988"
+  },
+  "birthday": "1976-05-14T22:10:22.196Z",
+  "ip": "195.162.251.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Cojroj etumewoh nopuor bohgemim bemuva giuvzeg ceise lesca me wiolalup uj voude kot boh. Sujid leb litfadhu zarweehu nilo opapu uhru wiraz heutgej fiofa eciafewi rib derpob ina renmucab uvove firo. Fa em vo feit nufoju sod haz wudtetfu lulku ropeji be dabvo tarhasew. Cisubor fit banujuhu vapi ema aginozec picsotu ipwiw guw joudu wuel katpi adiilrif marniffop. De dos sikcoso di dipmobefa fo ojcuwi vu wev onaciwe dulmo tapec wagife he curoza haum car. Gewo kujuiju em memji upafo gon memgav cim lakzozeri molem dun vusa hit vimwo ca cakrit cajeifu.",
+    "bio": "Voejja cegcasde lolim fogovewo wasof ehiwem zag renguv evne wiw jegvogev ro adilutti esa dih fun sih uvdu. Tersel rutbapbe usatu hom cit kofo tojdub tek hasterwez hefcupa jaz tuj fe rupuchag nivziw. Fuwihe ullow ja vahpip patawiuta gubcod er petvufa wobcarsan ekkoah zoigadun daz van larewub vumkavi bo rol bi."
+  },
+  "apiKey": "ae4c8f8bffd8f483dbabe659ed46669d392e6b55ebce51441f0ef6f971f3831d",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
