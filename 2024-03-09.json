@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Johnston",
+  "age": 43,
+  "address": {
+    "street": "Tosso Parkway",
+    "city": "Zahokdi",
+    "state": "CA",
+    "zip": "60480"
+  },
+  "contact": {
+    "phone": "(566) 862-1000",
+    "servicePhone": "800672469"
+  },
+  "birthday": "1974-09-19T13:04:17.532Z",
+  "ip": "155.66.153.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Odove ar sabaj finufij ete lip rov la peesku kimo mo wurwebi hag. Ezu iwujoksu benurjuc mul wajfa levfol goc bunemzih cozuw te liezana nilrica new fago nuwre. Sitevgel siw evzufag ed hicuk afa we tulak ritahsov mu unejos arzaip perkofeso.",
+    "bio": "Nop diekitup tagup viiw vasudu fadvat ma fibguf ji bacwemveb vudhabe mumo dibuk bo vomabwol gobfuzeg be. Hiijgik hinumaruv mo alikampos uko hugwigen ilraz jakibse gideba tivaw ro amuvizu was futimamoc zil. Laj opejes uk bu vegi civje bo panta pebawej awhohjuw uniro ehavew uwvehem hefokjid ufveb mirpus. Libhitcos job mowsop kofkovar esak bimdedez ja ho vi zi jewfa juhabo zoz inu gi wulur asowoz rofbabug. Rilasi ku wa wetimepu peoce kielse pubiba gis coezefa iti pofa entatrew dikbinba oz gop ka dojgogih roca. Bigho ipdinboz kiveko nevkipi nawfauw bo suzi az cor vuofruh izoihe hig gidrapesi vofehuru."
+  },
+  "apiKey": "0457979f7335155d52dcd4768eb81f9fb84c15b606f4ba271c38af80865ba06e",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
