@@ -1,0 +1,26 @@
+{
+  "name": "Terry Bates",
+  "age": 25,
+  "address": {
+    "street": "Zaago Path",
+    "city": "Jodroeh",
+    "state": "NC",
+    "zip": "11969"
+  },
+  "contact": {
+    "phone": "(378) 588-3411",
+    "servicePhone": "800256238"
+  },
+  "birthday": "1997-05-09T13:02:42.158Z",
+  "ip": "40.13.5.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Ardenwe ivusu azidej ehi lotongo tisade hatheac taekoso nucib ebeva tunuc apdu cusuz hoewjez zog ha feg. Buhjufja luk fukza atwa wihupi pat vaj od tazuf ukebub ilaida ces if eduwul. Kihitape kuatiwe ufepahev iwa la mujukto cividju zitoro sumijdo safunu nabap kazdek evba goliz ugu vas. Essu harvu wavpul kiw upkane cujpum cemuvwit ho cuhbaz wa zacep balismit valpi co ubi bojito azigudze amkefut. Oljam mo nuja lu ug wocowe inidegak kor makfigev iwde jonwuwsi zulow aslakedu etsi sa buh damod. Suvu lo kiw ipaipefa ocuki ka basukujih zi imitut waknaac mehumomug oru eshu omipece si pesbi kirewi. Giheg ra fuzo irfufi cepebwac ofzajana javeh luzizmu lelahtez esarelme be rime nonig pac.",
+    "bio": "Ovheij nuverevu moswa covpu oj hog uh aw se tahcol ceb atoroago gezpo wi tej ca. Ob hasatju lusuri pig osve sufakze ac amo jid mifmes pelo guvdel gemoazo zoasfe vutpuci fitne daumelun ogevaif. Wutisula hopegrob cuzimve cufnitda fuunueju fultolu ezuna ege fo ewema hahropfu firuma rucso fo. Pu muvuhat jebi sulbodzeh fol jerdef fuunli gub someda zoru jinweig hijadod ogodenic cur. Ohme noblar noltoldi ebeviwsuc awo bimvef sir ributver ecbep gularjam et vecliaz."
+  },
+  "apiKey": "dbeb306d9bf1103547b1786f68d2152cc72c81f0a5cb7cd5ea72d1bd00d50f96",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
