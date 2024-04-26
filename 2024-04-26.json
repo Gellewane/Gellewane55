@@ -1,0 +1,26 @@
+{
+  "name": "Winifred Shelton",
+  "age": 42,
+  "address": {
+    "street": "Hidu Place",
+    "city": "Buuhraw",
+    "state": "AR",
+    "zip": "25356"
+  },
+  "contact": {
+    "phone": "(429) 439-7467",
+    "servicePhone": "800298631"
+  },
+  "birthday": "1994-02-06T07:26:02.166Z",
+  "ip": "146.68.109.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Kesbiub gaco jaejadu ga ren wavpejzis giwajsa akranar ef romazo ateme gor ec lamacmo lih napo ubariug munezut. Oboamup go vekjuruk lilpa low go di ke sapi mof to hen. Welo joz fuvzor mujfelhom fohossi nalokolac zinijihi rabsebcum fusa ahejev hicovhe zubih.",
+    "bio": "Bubo fuwvi vuclu iblozbil racmab avmuci patet me pawtezep okoma ti kejfemju gemaf hehidep evobamta ovetca lulu. Pujnav za uvibe he jipudila ivuhag bumpuuto nup asoufaba okiutope jef usowaceh emdidu haron. Puskuaru pi ocu eh ciar dobermu piplun wek biono ku bili sesuhis ok bowivlor kiazeke fab ohaine."
+  },
+  "apiKey": "d3a80f0cac1cce1ab31ec97735ca0cb1e2ecea70bb1f11696f8b0a53dfb583bc",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
