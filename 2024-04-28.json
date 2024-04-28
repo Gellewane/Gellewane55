@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Roberts",
+  "age": 48,
+  "address": {
+    "street": "Jekaja Park",
+    "city": "Fileguz",
+    "state": "DC",
+    "zip": "80952"
+  },
+  "contact": {
+    "phone": "(831) 823-8463",
+    "servicePhone": "800259746"
+  },
+  "birthday": "1989-08-21T12:26:20.456Z",
+  "ip": "147.137.176.242",
+  "foo": "bar",
+  "profile": {
+    "about": "At pikiawo bahibeora liphudhin tawuzaram ilkeb buhno rohus pewop nucoldej ugcobud julildag nuk dajopa. De dujsej ul hujnewot sohe api lif caric bilco tisaduf tiezuju zolun guhopfo lovbov. Ijanislob mikolulet nebasduw jak ejjoliv lu kec tikudoja cukal ziwob dobi wav el dakul. Sehferlub jen ojehot wij pijkem tocoem iri fugvow sadu cawo cos hafco dozzod dujewaona ce pusa.",
+    "bio": "Iwibansod novuf ihuniw papoboz bihmeb civ la vac me rod ka efwazko lu ni govpa cuthubwo. Ladpoov afuta mikcu di tufe el kes kekufu co otigi hove wipmuv od pigje kuwlevaf turo. Je vew mag edsam hohmutup jun ger wu nus fugi jebfiwlu vuac folufad. Ci ulahipcub da buhudu jutninwup bu pipfi zafkigav maimhu uc manodpo zo epsafwu he kovhaw kedeon adiuleuka ufe. Pa sohiesi azozibir jekho utgog vapdefiwo pifce ipi ragac fa evowuzo didpejjeh ocazufu zof saklezam."
+  },
+  "apiKey": "9f1d5b8c144f2135454a8d0ff9defb04e98086af0ac34b0b3dce8d9170afacdf",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
